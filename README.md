@@ -51,12 +51,10 @@
 ## Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v5107005-del&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v5107005-del&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" height="150">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=v5107005-del&column=7&margin-w=6&margin-h=6&no-frame=true&theme=flat" alt="Trophies">
+  <img src="https://img.shields.io/github/followers/v5107005-del?style=flat-square&label=Followers&color=4C6EF5" alt="Followers">
+  <img src="https://img.shields.io/badge/Public%20repos-9-4C6EF5?style=flat-square" alt="Public repos">
+  <img src="https://img.shields.io/badge/Focus-RAG%20%26%20AI%20agents-2EA44F?style=flat-square" alt="Focus">
+  <img src="https://komarev.com/ghpvc/?username=v5107005-del&style=flat-square&color=4C6EF5&label=Profile+views" alt="Profile views">
 </p>
 
 ## Чем занимаюсь сейчас
