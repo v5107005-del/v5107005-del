@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://t.me/VladChernyshov"><img src="https://img.shields.io/badge/Telegram-%40VladChernyshov-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://vladaipro.com"><img src="https://img.shields.io/badge/Website-vladaipro.com-4C6EF5?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <img src="https://img.shields.io/badge/Open%20to%20work-Junior%20AI%20Engineer-2EA44F?style=flat-square" alt="Open to work">
 </p>
 
@@ -67,7 +66,6 @@
 ## Контакты
 
 - Telegram — [@VladChernyshov](https://t.me/VladChernyshov)
-- Сайт — [vladaipro.com](https://vladaipro.com)
 - Открыт к позициям Junior AI Engineer / Prompt Engineer и к проектной работе
 
 <sub>Все примеры в репозиториях запускаются на синтетических данных. Ключи, клиентские данные и коммерческий код не публикуются.</sub>
